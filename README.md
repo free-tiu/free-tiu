@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=free-tiu&layout=compact&theme=cobalt2)](https://github.com/free-tiu/)
 ![](https://activity-graph.herokuapp.com/graph?username=free-tiu&theme=github)
 
+![Metrics](https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai)
+
