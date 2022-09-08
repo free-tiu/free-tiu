@@ -18,16 +18,10 @@ Here are some ideas to get you started:
 		<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 		<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
 		<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+		<img  src="https://img.shields.io/badge/-Python-oringe?style=for-the-badge&logo=appveyor" />
 	</span>
 </div>
-<div align="center">
-	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" />
-</div>
 
-
-<div align="center">
-	<img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai">
-</div>
 
 <!--统计-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=free-tiu&show_icons=true&theme=cobalt2)
