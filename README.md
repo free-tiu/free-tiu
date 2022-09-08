@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!--上传代码条形图-->
 ![](https://activity-graph.herokuapp.com/graph?username=free-tiu&theme=github)
 <!--仓库列表-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=free-tiu&repo=To_do_List&theme=cobalt2)](https://github.com/free-tiu/To_do_List)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=free-tiu&repo=To_do_List&theme=cobalt2)](https://github.com/free-tiu/To_do_List)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=free-tiu&layout=compact&theme=cobalt2)
 <!--代码语言统计-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=free-tiu&layout=compact&theme=cobalt2)
 
