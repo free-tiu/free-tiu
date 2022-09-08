@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=free-tiu&repo=github-readme-stats)](https://github.com/free-tiu/)
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=free-tiu&show_icons=true&theme=cobalt2)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=free-tiu&layout=compact&theme=cobalt2)](https://github.com/free-tiu/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=free-tiu&layout=compact&theme=cobalt2)]
 
 ![](https://activity-graph.herokuapp.com/graph?username=free-tiu&theme=github)
 
