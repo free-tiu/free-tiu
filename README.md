@@ -12,6 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+	<img  src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
+</div>
+<div align="center">
+	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" />
+</div>
+
+
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=free-tiu)](https://github.com/free-tiu/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=free-tiu&repo=github-readme-stats)](https://github.com/free-tiu/)
@@ -21,5 +29,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=free-tiu&layout=compact&theme=cobalt2)](https://github.com/free-tiu/)
 ![](https://activity-graph.herokuapp.com/graph?username=free-tiu&theme=github)
 
-![Metrics](https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai)
+
 
