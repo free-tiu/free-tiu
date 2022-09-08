@@ -24,11 +24,13 @@ Here are some ideas to get you started:
 	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" />
 </div>
 
+<div style="display:flex;flex-wrap:nowrap;">
+	<!--统计-->
+	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=free-tiu&show_icons=true&theme=cobalt2)
+	<!--代码语言统计-->
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=free-tiu&layout=compact&theme=cobalt2)]
+</div>
 
-<!--统计-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=free-tiu&show_icons=true&theme=cobalt2)
-<!--代码语言统计-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=free-tiu&layout=compact&theme=cobalt2)]
 <!--上传代码条形图-->
 ![](https://activity-graph.herokuapp.com/graph?username=free-tiu&theme=github)
 <!--仓库列表-->
