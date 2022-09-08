@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 </div>
 
 
-<!--统计-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=free-tiu&show_icons=true&theme=cobalt2)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=free-tiu&layout=compact&theme=cobalt2)
-<!--代码语言统计-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=free-tiu&layout=compact&theme=cobalt2)
+<!--统计--><!--代码语言统计-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=free-tiu&show_icons=true&theme=cobalt2)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=free-tiu&layout=compact&theme=cobalt2)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=free-tiu&layout=compact&theme=cobalt2) -->
 
 
 <!--上传代码条形图-->
