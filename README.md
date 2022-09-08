@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 		<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 		<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
 		<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
-		<img  src="https://img.shields.io/badge/-Python-oringe?style=for-the-badge&logo=appveyor" />
+		<img  src="https://img.shields.io/badge/-Python-oringe?style=flat-square&logo=python" />
+		<img  src="https://img.shields.io/badge/-Java-1572B6?style=flat-square&logo=java" />
 	</span>
 </div>
 
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
 <!--统计-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=free-tiu&show_icons=true&theme=cobalt2)
 <!--代码语言统计-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=free-tiu&layout=compact&theme=cobalt2)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=free-tiu&layout=compact&theme=cobalt2)
 
 
 <!--上传代码条形图-->
