@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 -->
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=free-tiu)](https://github.com/free-tiu/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=free-tiu&repo=github-readme-stats)](https://github.com/free-tiu/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=free-tiu&repo=github-readme-stats)](https://github.com/free-tiu/)
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=free-tiu&show_icons=true&theme=flag-india)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=free-tiu&repo=To_do_List)](https://github.com/free-tiu/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=free-tiu&repo=To_do_List)](https://github.com/free-tiu/To_do_List)
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=free-tiu&layout=compact)](https://github.com/free-tiu/)
