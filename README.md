@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <!--仓库列表-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=free-tiu&layout=compact&theme=cobalt2)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=free-tiu&repo=To_do_List&theme=cobalt2)](https://github.com/free-tiu/To_do_List)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=free-tiu&repo=To_do_List&theme=cobalt2)](https://github.com/free-tiu/Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=free-tiu&repo=To_do_List&theme=cobalt2)][(https://github.com/free-tiu/Python)](https://github.com/free-tiu/Python)
 
 
 
